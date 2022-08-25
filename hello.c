@@ -11,8 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello Ben, Computer Engineering\n");
- //I was not enrolled in this class when Lab 1 was assigned, so I completed this on my own and did not have a partner
+  printf("Hello World,Ben Greiner!!\n");
+  printf("My major is Computer Engineering!\n");
 
   return 0;
 }
